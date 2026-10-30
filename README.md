@@ -1,2 +1,2 @@
-# simple-flashlight-
+# simple-flashlight
 my first Android flashlight app
